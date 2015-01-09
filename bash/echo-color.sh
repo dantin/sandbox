@@ -1,0 +1,23 @@
+#! /bin/bash
+
+echo "前景设置3xm"
+echo -e "重置 = 0"
+echo -e "黑色 = 30"
+echo -e "\e[1;31m 红色 = 31 \e[0m"
+echo -e "\e[1;32m 绿色 = 32 \e[0m"
+echo -e "\e[1;33m 黄色 = 33 \e[0m"
+echo -e "\e[1;34m 蓝色 = 34 \e[0m"
+echo -e "\e[1;35m 洋红 = 35 \e[0m"
+echo -e "\e[1;36m 青色 = 36 \e[0m"
+echo -e "\e[1;37m 白色 = 37 \e[0m"
+echo
+echo "背景设置4xm"
+echo -e "重置 = 0"
+echo -e "黑色 = 40"
+echo -e "\e[1;41m 红色 = 41 \e[0m"
+echo -e "\e[1;42m 绿色 = 42 \e[0m"
+echo -e "\e[1;43m 黄色 = 43 \e[0m"
+echo -e "\e[1;44m 蓝色 = 44 \e[0m"
+echo -e "\e[1;45m 洋红 = 45 \e[0m"
+echo -e "\e[1;46m 青色 = 46 \e[0m"
+echo -e "\e[1;47m 白色 = 47 \e[0m"
